@@ -1,0 +1,19 @@
+---
+title: "Untitled"
+author: "Samuel Schappel"
+date: '2022-08-24'
+output: html_document
+---
+
+```{r}
+# install.packages("shiny")
+# install.packages("shinydashboard")
+# install.packages("shinyWidgets")
+# 
+library(shinyWidgets)
+library(shiny)
+library(shinydashboard)
+
+
+getwd()
+```
